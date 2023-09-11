@@ -1,0 +1,58 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;700&family=Roboto:ital,wght@0,400;0,700;1,100&display=swap');
+
+body{
+    background-color: rgb(194, 194, 228);
+    font-family: 'Roboto', sans-serif;
+}
+html{
+    font-size: 16px;
+}
+.cabecera{
+background-image: url(descarga\ \(1\).jfif);
+background-position: bottom;
+background-color: aqua;
+}
+.encabezado{
+    background-image: url('descarga.jfif');
+    background-color: rgb(81, 114, 103);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 45vh;
+    width: 70vh;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 350px;
+    margin-right: 50px;
+}
+
+.menuSuperior{
+    font-size: small;
+    font-weight: 3700;
+    list-style-type: none;
+    text-align: center;
+    background-color: black;
+}
+.menuSuperior li{
+    display: inline-block;
+}
+.menuSuperior a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+.menuSuperior p{
+background-color: brown
+height: 70vh
+width:lab(from color l a b);    
+}
+p{
+    font-family: 'Hind Siliguri', sans-serif;
+
+}
+.contenidoimagen{
+    width: 60%
+    text-align:min-content;
+}
